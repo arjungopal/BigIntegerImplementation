@@ -1,10 +1,3 @@
-/*
- * Project 4 : Large Number Arithmetic  	
- * @ Team members 
- * ARJUN GOPAL  --- axg145630
- * ASHA MARY THOMAS -- axt143530
- * PAVAN KULKARNI --- pxk142330
- */
 
 AXG145630_Project4.java is the source code of the implementation. It can be compiled as
 > javac AXG145630_Project4.java

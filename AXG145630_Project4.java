@@ -5,12 +5,6 @@ import java.util.Map;
 import java.util.Scanner;
 
 
-/*
- * @ Team members 
- * ARJUN GOPAL  --- axg145630
- * ASHA MARY THOMAS -- axt143530
- * PAVAN KULKARNI --- pxk142330
- */
 
 /*
  * Class for structure of a node
